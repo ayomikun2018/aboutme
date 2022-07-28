@@ -1,0 +1,85 @@
+
+/* fieldset{
+    color: navy; 
+    background-color: pink;
+    height:500px;
+    width:900px;
+    font-size: 10px;
+} */
+.hr-1{
+  height: 10px;
+  background:  linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+.hr-2{
+  height: 20px;
+  background:  linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+.hr-3{
+  height: 30px;
+  background:  linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+.ayo{
+  border: 1px solid black;
+  margin:auto;
+  padding: 20px 10px;
+  font-weight: 300;
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: capitalize;
+  box-shadow: cadetblue;
+  background-color: rgba(112, 210, 240, 0.76); 
+}
+.skills{
+  border: 1px solid black;
+  margin:auto;
+  padding: 20px 10px;
+  font-weight: 300;
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: capitalize;
+  box-shadow: cadetblue;
+  background-color: rgba(35, 180, 224, 0.76); 
+}
+.services{
+  border: 1px solid black;
+  margin:auto;
+  padding: 20px 10px;
+  font-weight: 300;
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: capitalize;
+  box-shadow: cadetblue;
+  background-color: rgba(12, 144, 184, 0.76); 
+}
+.touch{
+  border: 1px solid black;
+  margin:auto;
+  padding: 20px 10px;
+  font-weight: 300;
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: capitalize;
+  box-shadow: cadetblue;
+  background-color: rgba(5, 115, 148, 0.76); 
+}
+#text{
+  border-radius: 25px;
+  background: url(paper.gif);
+  background-position: left top;
+  background-repeat: repeat;
+  background: #ffb4d8c7;
+  padding: 20px; 
+  width: 200px;
+  height: 100px; 
+}
+#submit{
+ background: #ffb4d8c7;
+}
+#cricket{
+  background: #ffb4d8c7; 
+}
+#name{
+  background: #ffb4d8c7; 
+}
+#email{
+  background: #ffb4d8c7; 
+}
+a{
+  text-decoration: none;
+}
